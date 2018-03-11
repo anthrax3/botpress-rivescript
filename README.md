@@ -1,3 +1,6 @@
+# 🚧 NOT MAINTAINED ANYMORE
+## Not compatible with Botpress X
+
 # botpress-rivescript
 
 [RiveScript](https://www.rivescript.com/) is a simple scripting language for chatbots with a friendly, easy to learn syntax.
